@@ -1,3 +1,5 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="100" height="100"/>&nbsp;
@@ -9,6 +11,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Git" **alt="Git" width="100" height="100"/>
 
 </div>
-:fire: My Stats :
+### :fire: My Stats :
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
