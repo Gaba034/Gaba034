@@ -4,7 +4,6 @@
 ---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gaba034&theme=dark&background=wheat)](https://git.io/streak-stats)
 ---
----
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaba034&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 :hammer_and_wrench: Languages and Tools :
