@@ -6,6 +6,7 @@
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaba034&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gaba034&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="100" height="100"/>&nbsp;
@@ -17,5 +18,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Git" **alt="Git" width="100" height="100"/>
 
 </div>
----
+
 
