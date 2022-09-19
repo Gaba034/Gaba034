@@ -1,6 +1,7 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 :fire: My Stats :
+---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gaba034&theme=dark&background=wheat)](https://git.io/streak-stats)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gaba034&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
