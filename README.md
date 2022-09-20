@@ -7,7 +7,7 @@
 ---
 <div><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gaba034&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></div>
 ---
-**:Quais Tecnlogias mais Uso:**
+*Quais Tecnlogias mais Uso
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="100" height="100"/>&nbsp;
