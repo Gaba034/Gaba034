@@ -3,7 +3,7 @@
 :fire: My Stats :
 ---
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gaba034&theme=dark&background=black)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaba034&layout=compact&theme=vision-friendly-dark&height=1000)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaba034&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
 ---
 <div><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gaba034&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></div>
 ---
