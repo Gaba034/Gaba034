@@ -6,9 +6,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaba034&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) 
 ---
 <div><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gaba034&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></div>
----
-*Quais Tecnlogias mais Uso
-
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="100" height="100"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="100" height="100"/>&nbsp;
