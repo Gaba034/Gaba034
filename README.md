@@ -1,4 +1,14 @@
+### Hello, Welcome to my GitHub profile!👋
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ggg21on&theme=highcontrast)](https://git.io/streak-stats)
+
+<div>
+<a href="https://ggg21on">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggg21on&layout=compact&langs_count=7&theme=highcontrast"/> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggg21on&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+</div>
+  
+##
 ---
 :fire: My Stats :
 ---
